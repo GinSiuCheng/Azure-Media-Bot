@@ -1,1 +1,1 @@
-# Azure-VideoIndexer-Bot
+# Azure-Media-Bot
